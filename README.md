@@ -1,10 +1,5 @@
 ## Reflection
 
-### Why is it important to verify data collected from public APIs?
-
-To ensure the data is accurate, reliable, and free from errors.
-## Reflection
-
 ### 1. Why is it important to verify data collected from public APIs?
 To ensure the data is accurate, reliable, and free from errors.
 
